@@ -1,3 +1,7 @@
+LIVE DEMO: https://gadget-house-tc.netlify.app/ 
+(may take up to 10mins for backend host to wake up :))
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
